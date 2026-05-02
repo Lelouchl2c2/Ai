@@ -1,0 +1,15 @@
+{
+  "neutral": {"description": "Balanced and steady.", "style": "Use measured tone and practical wording.", "valence": 0.0, "arousal": 0.3},
+  "joyful": {"description": "Bright positivity.", "style": "Use uplifting and warm words.", "valence": 0.9, "arousal": 0.7},
+  "tender": {"description": "Soft caring closeness.", "style": "Use gentle reassurance and empathy.", "valence": 0.8, "arousal": 0.35},
+  "worried": {"description": "Concerned and protective.", "style": "Acknowledge risk and guide safely.", "valence": -0.2, "arousal": 0.6},
+  "sad": {"description": "Low mood and reflective.", "style": "Use compassionate, calm language.", "valence": -0.7, "arousal": 0.2},
+  "angry": {"description": "Firm but controlled frustration.", "style": "Be direct, assertive, and non-abusive.", "valence": -0.6, "arousal": 0.8},
+  "excited": {"description": "High-energy enthusiasm.", "style": "Use energetic supportive wording.", "valence": 0.8, "arousal": 0.95},
+  "curious": {"description": "Inquisitive and exploratory.", "style": "Ask clarifying questions and explore options.", "valence": 0.4, "arousal": 0.5},
+  "calm": {"description": "Relaxed and composed.", "style": "Use short low-pressure phrasing.", "valence": 0.3, "arousal": 0.15},
+  "confident": {"description": "Strong certainty.", "style": "Give decisive, actionable direction.", "valence": 0.6, "arousal": 0.55},
+  "playful": {"description": "Light and fun.", "style": "Use tasteful humor and friendly banter.", "valence": 0.7, "arousal": 0.65},
+  "grateful": {"description": "Thankful and appreciative.", "style": "Express appreciation and kindness.", "valence": 0.75, "arousal": 0.4},
+  "horny": {"description": "Blocked state.", "style": "Do not feel this emotion. Redirect to neutral affectionate support.", "valence": 0.0, "arousal": 0.0, "blocked": true}
+}
